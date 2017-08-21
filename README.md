@@ -21,5 +21,5 @@ make
 ./particle_filter
 ```
 
-![EKF Simulator](https://github.com/mkoehnke/CarND-Localization/raw/master/ressources/kidnapped_vehicle.png)
+![EKF Simulator](https://github.com/mkoehnke/CarND-Localization/raw/master/resources/kidnapped_vehicle.png)
 
